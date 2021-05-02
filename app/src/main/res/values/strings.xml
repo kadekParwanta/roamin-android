@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RoamIn</string>
+    <string name="title_home">Roam</string>
+    <string name="title_dashboard">Booking</string>
+    <string name="title_notifications">Deals</string>
+</resources>
